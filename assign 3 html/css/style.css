@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100..900&display=swap');
+
+
+
+
+body{
+    background-image: url("../img/back.jpg") ;
+    background-repeat : no-repeat;
+    background-position: center;
+    background-size: cover;
+    /* width: 100%;
+    height: 100%; */
+    margin: 0;
+    padding: 0;
+}
+
+.maincontent h3{
+    font-family: "Noto Sans JP", sans-serif;
+    letter-spacing: 3px;
+    color: #cacaca;
+}
+
+.content1{
+    display:flex;
+    justify-content: space-between;
+}
+
+
+
+.box{
+    height:100%;
+    width:100%;
+}
+
+.box h3,p{
+    color: #cacaca;    
+}
+
+.box h1{
+    color: #cacaca;
+    letter-spacing: 1px;
+    font-family: "Noto Sans JP", sans-serif;
+}
+
+
+.the{
+    font-size:20px;
+    font-family: "Noto Sans JP", sans-serif;
+}
+
+.wol{
+    font-size:35px;
+    font-family: "Noto Sans JP", sans-serif;
+}
+
+.in{
+    font-size: 12px;
+    font-family: "Noto Sans JP", sans-serif;
+}
+
+.box p{
+    font-size: 8px;
+    font-family: "Noto Sans JP", sans-serif;
+}
+.posterlink h3 a{
+    text-decoration: none;
+    color:white;
+}
